@@ -1,1 +1,1 @@
-<img width="711" height="919" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/db529a2c-6522-4a05-a667-3542c7ac7ddf" />
+[Sistema Bibliotécario (1).pdf](https://github.com/user-attachments/files/23000311/Sistema.Bibliotecario.1.pdf)
