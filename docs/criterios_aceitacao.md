@@ -8,7 +8,7 @@ RF01:
 RF02:
 1. Validar que o e-mail informado corresponde a um usuário cadastrado no sistema;
 2. Validar se a senha informada corresponde à senha cadastrada para aquele e-mail;
-3. 3. Caso o e-mail ou a senha sejam inválidos, exibir uma mensagem de erro clara: "E-mail ou senha incorretos. Tente novamente"
+3. Caso o e-mail ou a senha sejam inválidos, exibir uma mensagem de erro clara: "E-mail ou senha incorretos. Tente novamente"
 
 RF03
 1. Validar todas as reservas de livros da mais recente para mais antiga;
@@ -44,6 +44,7 @@ RNF04:
 1. Garantir que o sistema fique online 24 hrs a cada dia;
 2. Garantir que se caso caia o sistema , seja avisado imediatamente para voltar ao Ar;
 3. Garantir que funcione fora do instituto IFAL 
+
 
 
 
