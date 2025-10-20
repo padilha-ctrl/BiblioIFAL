@@ -35,3 +35,4 @@ Prioridades : Alta
 RNF04 - Não Funcional
 O sistema tem que ficar no "Ar" toda hora
 Prioridades : Baixa
+
