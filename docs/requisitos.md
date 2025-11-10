@@ -20,6 +20,9 @@ Prioridades : Baixa
 
 RF06 - Funcional 
 O sistema tem que ter ferramentas para adicionar livros novos 
+Prioridades : Alta
+
+
 ------------------------------------------------------------------------------
 
 RNF01 - Não Funcional
@@ -37,6 +40,7 @@ Prioridades : Alta
 RNF04 - Não Funcional
 O sistema tem que ficar no "Ar" toda hora
 Prioridades : Baixa
+
 
 
 
