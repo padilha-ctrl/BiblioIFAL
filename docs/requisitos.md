@@ -19,7 +19,6 @@ O sistema tem que registrar a devolução do livro e o estado do mesmo
 Prioridades : Baixa
 
 RF06 - Funcional 
-
 O sistema tem que ter ferramentas para adicionar livros novos 
 ------------------------------------------------------------------------------
 
@@ -38,5 +37,6 @@ Prioridades : Alta
 RNF04 - Não Funcional
 O sistema tem que ficar no "Ar" toda hora
 Prioridades : Baixa
+
 
 
