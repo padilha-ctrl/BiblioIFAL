@@ -1,5 +1,5 @@
 RF01 - Funcional
-Funcional : O sistema deve permitir que o aluno acesse o acervo de livros . 
+O sistema deve permitir que o aluno acesse o acervo de livros . 
 Prioridades : Alta
 
 RF02 - Funcional
@@ -22,6 +22,14 @@ RF06 - Funcional
 O sistema tem que ter ferramentas para adicionar livros novos 
 Prioridades : Alta
 
+RF07 - Funcional
+O sistema tem que ter páginas referentes à cada gênero de conhecimento(Livro(fisico e/ou online),PodCast,AudioBooks)
+Prioridade : Média 
+
+RF08 - Funcional
+O sistema tem que disponibilizar uma página referentes as reservas onlines
+Prioridade : Baixa 
+
 
 ------------------------------------------------------------------------------
 
@@ -40,6 +48,7 @@ Prioridades : Alta
 RNF04 - Não Funcional
 O sistema tem que ficar no "Ar" toda hora
 Prioridades : Baixa
+
 
 
 
